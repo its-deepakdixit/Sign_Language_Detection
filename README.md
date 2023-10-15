@@ -9,8 +9,8 @@ The project is to help the society of deprived people who are facing difficultie
 ![Sign-language-letters](https://github.com/its-deepakdixit/Sign_Language_Detection/assets/92906504/2b1fb957-ddfc-4fe3-a68c-74a25af5fe0d)
 
 # Reference images
-![sam-slr](https://github.com/its-deepakdixit/Sign_Language_Detection/assets/92906504/bae340f0-f3ad-4ed2-a13f-8348a88f090b)
 ![Capture1](https://github.com/its-deepakdixit/Sign_Language_Detection/assets/92906504/a330cde0-ed98-459c-9a06-8cae5572ddb4)
+![Capturee](https://github.com/its-deepakdixit/Sign_Language_Detection/assets/92906504/bd5c80d1-b168-49e1-8f7f-0145e341e32b)
 
 # Requirements and Docker Image
 The code is written using Anaconda Python >= 3.6 and Pytorch 1.7 with OpenCV.
